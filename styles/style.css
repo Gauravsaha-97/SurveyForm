@@ -1,0 +1,114 @@
+body {
+    background-image: linear-gradient(45deg, #0000ff, #1a1aff, #4d4dff, #8080ff, #ccccff);
+    opacity: 0.8;
+}
+
+.title {
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 2cm;
+}
+
+.fig {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 100;
+    font-size: medium;
+}
+
+.form {
+    height: 42cm;
+    width: 20cm;
+    display: block;
+    margin-top: 0.5cm;
+    margin-left: 8cm;
+    margin-right: 10cm;
+    background-image: linear-gradient(#000066, #000080, #0000b3, #0000e6, #0000ff, #1a1aff, #4d4dff, #8080ff, #ccccff);
+}
+
+.form:hover {
+    box-shadow: 8px 10px 15px 20px #66a3ff, 10px 20px 30px 20px #66a3ff;
+}
+
+.name {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 21px;
+    padding-top: 2rem;
+    padding-left: 2cm;
+    color: #ffffff;
+}
+
+.a {
+    height: 1cm;
+    width: 14cm;
+    margin-top: 0.2cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    border-radius: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    background-color: #ffffff;
+}
+
+.name1 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    padding-top: 2rem;
+    padding-left: 2cm;
+    color: black;
+}
+
+.a1 {
+    height: 0.5cm;
+    width: 0.5cm;
+    margin-top: 0.2cm;
+    margin-left: 2cm;
+    margin-right: 0.2cm;
+    border-radius: 50%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.name2 {
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    color: white;
+}
+
+.text {
+    height: 5cm;
+    width: 14cm;
+    margin-top: 0.2cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    border-radius: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    background-color: #ffffff;
+}
+
+.submit {
+    background-color: #001a4d;
+    color: wheat;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    height: 1cm;
+    width: 14cm;
+    margin-top: 0.2cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    border-radius: 5px;
+}
